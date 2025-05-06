@@ -89,7 +89,7 @@ Siteyi kendi CV'nize ve kişisel bilgilerinize göre özelleştirmek için:
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](/screenshots/anasayfa.png)
+![Ana Sayfa](/https://resmim.net/cdn/2025/05/07/N9hHyF.png)
 
 ### Portfolyo
 ![Portfolyo](/screenshots/portfolyo.png)
