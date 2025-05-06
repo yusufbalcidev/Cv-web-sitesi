@@ -21,15 +21,6 @@ Dinamik bir kişisel CV/Portfolyo web sitesi projesi. ASP.NET MVC mimarisi kulla
 - Blog / Makale Sayfası
 - Responsive (Mobil Uyumlu) Tasarım
 
-### ⚙️ Admin Paneli
-- Kişisel Bilgi Düzenleme
-- Yetenek ve Becerileri Yönetme
-- Eğitim ve Deneyim Bilgilerini Güncelleme
-- Portfolyo Projelerini Ekleme/Düzenleme/Silme
-- Blog Yazılarını Yönetme
-- İletişim Formundan Gelen Mesajları Görüntüleme
-- İstatistik ve Ziyaretçi Analizleri
-
 ## 🛠️ Kullanılan Teknolojiler
 
 - **Backend Framework**: ASP.NET MVC 5
