@@ -86,16 +86,6 @@ Siteyi kendi CV'nize ve kişisel bilgilerinize göre özelleştirmek için:
 5. "Portfolyo" bölümünden projelerinizi yükleyin
 6. "Blog" bölümünden makalelerinizi yazın
 
-## 📸 Ekran Görüntüleri
-
-### Ana Sayfa
-![Ana Sayfa](/https://resmim.net/cdn/2025/05/07/N9hHyF.png)
-
-### Portfolyo
-![Portfolyo](/screenshots/portfolyo.png)
-
-### Admin Paneli
-![Admin Paneli](/screenshots/admin-panel.png)
 
 ## 🔄 Proje Mimarisi
 
@@ -120,10 +110,6 @@ Proje, standart MVC (Model-View-Controller) mimarisi kullanılarak yapılandır�
 
 Bu proje [Yusuf Balci](https://github.com/yusufbalcidev) tarafından geliştirilmiştir.
 
-## 📄 Lisans
 
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
-
----
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐
